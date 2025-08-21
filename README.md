@@ -33,10 +33,10 @@
 </p>
 
 ### 🔹 Frameworks & Libraries
-**Frontend:**  
+<p align="center"><strong>Frontend</strong></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite" /></p>
 
-**Backend:**  
+<p align="center"><strong>Backend</strong></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,express,nodejs" /></p>
 
 ### 🔹 Databases
@@ -46,14 +46,14 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,git,github,ps,ai" /></p>
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Profile Visits
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=luis-alvarezf10&icon=3&color=6"/>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 </p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
