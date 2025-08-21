@@ -50,7 +50,7 @@
 
 ## 📈 Profile Visits
 <p align="center">
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=luis-alvarezf10)
 </p>
 
 <!-- Divider -->
