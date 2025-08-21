@@ -45,12 +45,9 @@
 ### 🔹 Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,git,github,ps,ai" /></p>
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Divider -->
-
----
 
 ✨ *Last Edited: 21/08/2025*
