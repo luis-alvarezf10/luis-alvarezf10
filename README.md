@@ -29,22 +29,22 @@
 
 ### 🔹 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py,dart" />
 </p>
 
 ### 🔹 Frameworks & Libraries
 <p align="center"><strong>Frontend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro,flutter" /></p>
 
 <p align="center"><strong>Backend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,express,nodejs" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,supabase" /></p>
 
 ### 🔹 Databases
-<p align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,firebase" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase" /></p>
 
 ### 🔹 Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,git,github,ps,ai" /></p>
-
+<p align="center"><img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,vercel,git,github,pnpm,figma,ps,ai,discord" /></p>
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,visualstudio,vercel,git,github,pnpm,figma,ps,ai,discord&perline=5)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
