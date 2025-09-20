@@ -43,7 +43,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase" /></p>
 
 ### 🔹 Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,vercel,git,github,pnpm,figma,ps,ai,discord&perline=5" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,vercel,git,github,pnpm,figma,ps,aid&perline=5" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
