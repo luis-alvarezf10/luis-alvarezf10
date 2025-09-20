@@ -29,12 +29,12 @@
 
 ### 🔹 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py" />
 </p>
 
 ### 🔹 Frameworks & Libraries
 <p align="center"><strong>Frontend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro,flutter" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro" /></p>
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,supabase" /></p>
