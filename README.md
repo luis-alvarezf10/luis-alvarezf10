@@ -7,7 +7,7 @@
   🎓 4th-year Systems Engineering student <br>
   💻 Passionate about software development <br>
   🌎 Bilingual: Spanish (native) & English (intermediate) <br>
-  🌐 Visit my portfolio 👉 <a href="https://luis-alvarezf10.github.io/portafolio-personal/">Here</a> <br>
+  🌐 Visit my portfolio 👉 <a href="#">Here</a> <br>
   📫 Contact me: <strong>luigisystems10@gmail.com</strong>
 </p>
 
