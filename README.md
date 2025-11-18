@@ -29,12 +29,12 @@
 
 ### 🔹 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py,dart" />
 </p>
 
 ### 🔹 Frameworks & Libraries
 <p align="center"><strong>Frontend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro,flutter" /></p>
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,supabase" /></p>
@@ -49,4 +49,4 @@
 
 <!-- Divider -->
 
-✨ *Last Edited: 20/09/2025*
+✨ *Last Edited: 18/11/2025*
