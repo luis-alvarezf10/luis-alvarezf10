@@ -37,10 +37,10 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,react,vite,astro,flutter" /></p>
 
 <p align="center"><strong>Backend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,supabase,mongodb" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,supabase" /></p>
 
 ### 🔹 Databases
-<p align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase,postgres" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase,mongodb,postgres" /></p>
 
 ### 🔹 Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,vercel,git,github,pnpm,figma,ps,ai&perline=5" /></p>
