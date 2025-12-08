@@ -7,7 +7,7 @@
   🎓 4th-year Systems Engineering student <br>
   💻 Passionate about software development <br>
   🌎 Bilingual: Spanish (native) & English (intermediate) <br>
-  🌐 Visit my portfolio 👉 <a href="#">Here</a> <br>
+  🌐 Visit my portfolio 👉 <a href="https://ladev.vercel.app">Here</a> <br>
   📫 Contact me: <strong>luigisystems10@gmail.com</strong>
 </p>
 
@@ -49,4 +49,4 @@
 
 <!-- Divider -->
 
-✨ *Last Edited: 12/7/2025*
+✨ *Last Edited: 12/8/2025*
