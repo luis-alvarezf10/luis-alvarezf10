@@ -8,7 +8,7 @@
   💻 Passionate about software development <br>
   🌎 Bilingual: Spanish (native) & English (intermediate) <br>
   🌐 Visit my portfolio 👉 <a href="https://ladev.vercel.app" target="_blank">Here</a> <br>
-  📫 Contact me: <strong>luigisystems10@gmail.com</strong>
+  📫 Contact me: <strong>luis.alvarez.developer@gmail.com</strong>
 </p>
 
 ---
