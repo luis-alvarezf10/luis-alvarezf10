@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Luis Álvarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="start">
-  🎓 4th-year Systems Engineering student <br>
+  🎓 5th-year Systems Engineering student <br>
   💻 Passionate about software development <br>
   🌎 Bilingual: Spanish (native) & English (intermediate) <br>
   🌐 Visit my portfolio 👉 <a href="https://ladev.vercel.app" target="_blank">Here</a> <br>
